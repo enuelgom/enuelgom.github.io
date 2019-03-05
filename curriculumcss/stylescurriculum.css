@@ -1,0 +1,67 @@
+h1{ 
+    font-size : 40pt; 
+    font-family : Georgia, 'Times New Roman', Times, serif;  
+    text-align : center;  
+}
+h2{
+    font-size : 24pt; 
+    font-family : Georgia, 'Times New Roman', Times, serif;  
+    text-align : center; 
+}
+body{
+    background-color : #02aa34; 
+    font-family : arial; 
+    color : White; 
+}
+td{
+    width: 1000px;
+    height: 10px;
+    font-size : 16pt; 
+    font-family : verdana,arial;  
+    background-color : 666666; 
+}
+td.titulo{
+    width: 350px;
+    height: 10px;
+    font-size : 19pt; 
+    font-family : verdana,arial;  
+    background-color : 666666; 
+}
+td.subt,td.periodo{
+    width: 300px;
+    height: 10px;
+}
+td.formacion{
+    width: 1000px;
+    height: 10px;
+}
+td.foto{
+    width: 150;
+}
+hr{
+    color: rgba(0, 255, 42, 0.281);
+}
+hr.in,hr.fn{
+    color: rgb(46, 212, 46);
+}
+table.nombres{
+    width: 800px;
+    height: 10px;
+}
+td.nombre{
+    text-align: center;
+    font-size: 35pt
+}
+td.nombre1{
+    text-align: center;
+    font-size: 25pt;
+}
+div{
+    text-align: center;
+    
+    height: 195pt;
+    width: 100%;
+    background:rgb(46, 212, 46);
+}
+
+
