@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+div.inicio{
+    margin-bottom: 10px;
+    display: inline-block;
+    border: 1px solid #21503c9a;
+    background-color: #22382e9a;
+    height: 110px;
+    width: 100%;
+}
+div{
+margin-top: 10px;
+margin-left: 5px;
+margin-right: 5px;
+    
+    border: 1px solid #21503c9a;
+
+    background-color: #22382e9a;
+    height: 400px;
+    width: 30%;
+    display: inline-table;
+}
+
+a{
+    color: black;    
+}
