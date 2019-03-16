@@ -1,6 +1,6 @@
   
 cuadros();
-var opcion = prompt("introdusca un numero entre 10 y 100");
+var opcion = prompt("introdusca un numero entre 20 y 100");
 var colores=[];
 var primos=[];
 
@@ -20,7 +20,7 @@ var primos=[];
 
         if (opcion ==null || opcion=="") {
             alert("introduce un numero >:#");            
-        }else if (opcion<20 || opcion>100) {
+        }else if (opcion<=20 || opcion>=100) {
             alert("no esta dentro del rango");
         }else{
             for (let i = 1; i <= opcion; i++) {
