@@ -1,0 +1,30 @@
+.izquierda{
+    
+    display: inline-block;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 312px;
+    padding: 10px;
+    margin-top: 20px;
+    
+    
+}
+.derecha{
+    display: inline-block;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    width:15%;
+    padding: 10px 15px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+button{
+    height: 22px;
+    width: 150px;
+}
+button:hover{
+    height: 2em;
+    width: 11em;
+    background-color: blueviolet;
+}
