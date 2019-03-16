@@ -20,7 +20,7 @@ var primos=[];
 
         if (opcion ==null || opcion=="") {
             alert("introduce un numero >:#");            
-        }else if (opcion<=20 || opcion>=100) {
+        }else if (opcion<20 || opcion>100) {
             alert("no esta dentro del rango");
         }else{
             for (let i = 1; i <= opcion; i++) {
